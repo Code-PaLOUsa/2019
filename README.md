@@ -11,8 +11,6 @@ _Add your sessions here in alphabetical order by session title_
 
 ### Speaker Instructions
 
-Please add your supporting materials for your session in a single file in the "Talks" folder.  Ideally with no spaces in the filename.
-
 Please add your supporting materials for your session in a folder using your name dash and then the name of the session without any spaces.  For example:
 
 /ChadGreen-BuildingGreatLibrariesWithNetStandard
