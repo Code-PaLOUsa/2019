@@ -5,7 +5,7 @@ Slides and Materials from the Code PaLOUsa 2019 sessions.
 ***
 _Add your sessions here in alphabetical order by session title_
 
-* Building Great Libraries Using .NET Standard by Chad Green
+* [Building Great Libraries Using .NET Standard](/ChadGreen/BuildingGreatLibrariesUsingNetStandard) by Chad Green
 
 ***
 
