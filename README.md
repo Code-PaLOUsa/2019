@@ -11,9 +11,9 @@ _Add your sessions here in alphabetical order by session title_
 
 ### Speaker Instructions
 
-Please add your supporting materials for your session in a folder using your name dash and then the name of the session without any spaces.  For example:
+Please add your supporting materials for your session in a seperate folder.  First create a folder for your name and then a folder for your presentation. Please do not include any spaces.  For example:
 
-/ChadGreen-BuildingGreatLibrariesWithNetStandard
+/ChadGreen/BuildingGreatLibrariesWithNetStandard
 
 Then Update the list with your talk, in alphabetical order if you can.
 
